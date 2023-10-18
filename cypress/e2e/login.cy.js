@@ -1,7 +1,7 @@
-
+/// <reference types="cypress" />
 
 describe('Login', ()=> {
-    it('Cadastro com sucesso', () => {
+    it('Cadastro com', () => {
         
     });
 })
