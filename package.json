@@ -1,0 +1,23 @@
+{
+  "name": "desafio-2_qazando",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RicardoOliveira89/Desafio-2_QAZANDO.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RicardoOliveira89/Desafio-2_QAZANDO/issues"
+  },
+  "homepage": "https://github.com/RicardoOliveira89/Desafio-2_QAZANDO#readme",
+  "dependencies": {
+    "cypress": "^13.3.1"
+  }
+}
