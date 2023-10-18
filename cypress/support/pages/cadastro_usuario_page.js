@@ -1,7 +1,5 @@
 /// <reference types="cypress" />
 
-import { expect } from "chai"
-
 export default {
     clicarCadastrar(){
         cy.get('#btnRegister')

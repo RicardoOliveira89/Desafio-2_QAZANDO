@@ -1,4 +1,3 @@
-<reference types="cypress" />
 
 import '../support/pages/login_page.js'
 import '../support/pages/home_page.js'

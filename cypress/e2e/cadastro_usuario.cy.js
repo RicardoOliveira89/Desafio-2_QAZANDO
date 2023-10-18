@@ -1,4 +1,4 @@
-/// <reference types="cypress" />
+///<reference types="cypress" />
 
 import commum_page from "../support/pages/commum_page.js"
 import cadastro_usuario_page from "../support/pages/cadastro_usuario_page.js"
@@ -11,7 +11,7 @@ describe ('Cadastro de usuário', ()=> {
 
     it('Campo nome vazio', () => {
         cadastro_usuario_page.clicarCadastrar()
-        cadastro_usuario_page.validarMensagemErro('O campo nome deve ser preenchido')
+        cadastro_usuario_page.validarMensagemErro('O campo nome deve ser prenchido')
     })
 
     it('Campo e-mail vazio', () => {
